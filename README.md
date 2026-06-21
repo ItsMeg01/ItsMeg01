@@ -22,8 +22,8 @@ security and applied machine learning.
 Finishing my MS and open to full-time **security / ML roles starting August 2026**. Open to relocation.
 
 ### Find me
-- LinkedIn — 〈confirm your real profile URL〉
+- LinkedIn — https://www.linkedin.com/in/meghana-cilagani/
 - Email — meghanacilagani@gmail.com
-- Publications — 〈link / DOI〉
 
-*Pinned projects below — code, writeups, and the metrics behind each.*
+
+
