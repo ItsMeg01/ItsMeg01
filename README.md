@@ -4,7 +4,7 @@
 
 **MS Cybersecurity @ Purdue · former Software Engineer · AI/ML Security & Risk**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghanacilagani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghana-cilagani/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanacilagani@gmail.com)
 ![Open to roles](https://img.shields.io/badge/Open%20to%20roles-Aug%202026-2E7D32?style=for-the-badge)
 
